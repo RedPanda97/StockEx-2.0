@@ -1,0 +1,1 @@
+{"name":"TestUser","stocks":[],"bankBal":0.0,"id":0}

@@ -1,0 +1,4 @@
+2 GOOG 1
+1 AAPL 1
+1 GOOG 1
+1 AMZN 1
